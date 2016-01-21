@@ -1,0 +1,20 @@
+﻿Adding First Deagt
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Artificial-Intelligence
+#	new file:   DataScience/PredictingMovieRevenue.pdf
+#	new file:   DataScience/SalaryPrediction.ipynb
+#	new file:   DataScience/SalaryPredictionUsingClassification.pdf
+#	new file:   DataScience/SentimentAnalysis.ipynb
+#	new file:   DataScience/YelpEDA.pdf
+#	new file:   Operating-System
+#
+# Changes not staged for commit:
+#	modified:   Artificial-Intelligence (modified content, untracked content)
+#	modified:   Operating-System (modified content, untracked content)
+#
+
